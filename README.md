@@ -174,4 +174,9 @@ Below are pictoral evidences
 <img width="872" height="515" alt="Screenshot 2026-10-01 082726" src="https://github.com/user-attachments/assets/02a9087c-c55b-4cff-91e1-6df13f3157e3" />
 
 
-<img width="1075" height="410" alt="Staff Salary and share holder" src="https://github.com/user-attachments/assets/bf3ba11a-a5fe-467f-beb6-
+<img width="1075" height="410" alt="Staff Salary and share holder" src="https://github.com/user-attachments/assets/54bd5b20-10c1-4211-b21b-6e604e27a0e1" />
+
+
+
+[PENTEST REPORT MEDIROZA.docx](https://github.com/user-attachments/files/32985115/PENTEST.REPORT.MEDIROZA.OMOLEWA.KEHINDE.EBENEZER.docx)
+
